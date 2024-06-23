@@ -16,3 +16,4 @@ driver.get ('https://automatetheboringstuff.com/')
 print(driver.title)
 driver.close()
 
+# ada sih cara yang lebih rapih, tapi kata Bang Uno itu nanti aja, toh ini masih dasar katanya
